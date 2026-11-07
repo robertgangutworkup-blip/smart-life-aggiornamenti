@@ -1,6 +1,6 @@
 {
-  "version": "0.17.0",
-  "build": 23,
-  "date": "2026-11-07T16:24:02.900Z",
-  "notes": "- Nuovo tasto Spotify nella barra in alto, in ogni sezione di Smart Life: play e pausa, brano precedente e successivo, le tue playlist e su quale dispositivo suonare (telefono, PC, cassa).\n- Si collega una volta sola: tocca il tasto e segui i 6 passi per creare la tua piccola «app Spotify» e incollare il Client ID. Per comandare la musica Spotify chiede un account Premium.\n- Quando la musica suona, il tasto diventa verde con un puntino che pulsa."
+  "version": "0.18.0",
+  "build": 24,
+  "date": "2026-11-07T16:32:14.261Z",
+  "notes": "- Impegni: sotto ogni impegno di oggi c'è il tasto «▶ Inizio». Toccalo quando cominci e «⏹ Fine» quando finisci: Smart Life conta il tempo reale che ci hai dedicato, con il cronometro che scorre.\n- Puoi fermarti e riprendere («▶ Riprendi»): il tempo si somma. Se ne avvii un altro, quello prima si ferma da solo.\n- Accanto vedi i minuti reali e quelli previsti dall'orario; aprendo l'impegno trovi lo storico dei giorni con il totale, e la × per azzerare un giorno sbagliato.\n- Se ti dimentichi di fermarlo, in Oggi compare un riquadro rosso «in corso» con il tasto Fine."
 }
