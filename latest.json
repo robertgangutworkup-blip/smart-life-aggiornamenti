@@ -1,6 +1,6 @@
 {
-  "version": "0.12.3",
-  "build": 17,
-  "date": "2026-11-07T11:38:01.912Z",
-  "notes": "- Se l'archivio pubblico è vuoto, la compilazione scrive prima latest.json e poi crea la versione."
+  "version": "0.13.0",
+  "build": 18,
+  "date": "2026-11-07T12:09:50.337Z",
+  "notes": "- Nuova «Modalità lavoro» nei progetti: un passaggio alla volta a tutto schermo, con Avanti/Indietro (anche scorrendo col dito), «Fatto, avanti» e lo schermo che resta acceso.\n- Ogni passaggio può avere un avviso di sicurezza, i minuti per il timer, gli attrezzi da preparare e il materiale del progetto che serve.\n- Puoi aggiungere foto (fotocamera o galleria) o disegnare uno schema col dito su ogni passaggio; tocca la foto per ingrandirla.\n- Modifica dei passaggi più comoda: sposta su e giù, duplica, inserisci un passo sotto, e dalla modalità lavoro la matita apre subito quel passo."
 }
