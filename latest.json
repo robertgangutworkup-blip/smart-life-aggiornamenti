@@ -1,0 +1,6 @@
+{
+  "version": "0.12.3",
+  "build": 17,
+  "date": "2026-11-07T11:38:01.912Z",
+  "notes": "- Se l'archivio pubblico è vuoto, la compilazione scrive prima latest.json e poi crea la versione."
+}
