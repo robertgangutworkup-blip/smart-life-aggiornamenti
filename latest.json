@@ -1,6 +1,6 @@
 {
-  "version": "0.19.0",
-  "build": 25,
-  "date": "2026-11-07T19:57:18.258Z",
-  "notes": "- Penalità vere: un blocco di studio, un'abitudine o la verifica saltati, o il budget sforato tolgono 2⚡ (al massimo 8 al giorno). Se lo segni entro il giorno dopo non conta, la domenica niente penalità. Partono da oggi, non all'indietro\n- Serie: ogni settimana senza penalità dà +10% di energia, fino a +50%. Il fuoco 🔥 in alto mostra la serie\n- Salvaserie: si usa da solo per salvare una settimana; ne guadagni uno ogni 4 settimane di serie\n- Pausa per ferie o malattia: dal menu ☰ → Serie e pausa, niente penalità\n- Ogni abitudine ha il suo nemico vicino alla base: se la salti attacca la base e può danneggiare una costruzione (si ripara con 3 componenti). Battendolo sta lontano 3 giorni, con 21 giorni di fila è sconfitto per sempre\n- Scaricatore, Differenziale e Allarme della base ora funzionano davvero\n- Nemici nuovi ogni settimana, mescolando corpi, teste, accessori e comportamenti\n- Bestiario nel menu ☰: tutti i nemici che hai incontrato, quante volte li hai battuti e i trofei"
+  "version": "0.20.0",
+  "build": 26,
+  "date": "2026-11-07T20:20:22.805Z",
+  "notes": "- Sfide del giorno: 3 nuove ogni mattina alle 5 (battaglia, quiz rapido, circuito o esplorazione). La prima è gratis, le altre 5⚡. Premi: esperienza, componenti e a volte un salvaserie. Le trovi col bersaglio 🎯 in alto\n- Quiz nuovi: oltre alle risposte da toccare ci sono risultati da scrivere e domande da abbinare\n- Palestra (menu ☰): quiz, battaglie contro i nemici già incontrati e circuiti già fatti, senza spendere energia e senza premi\n- Andamento della Prova (menu ☰): come vanno studio, abitudini, energia e penalità settimana per settimana\n- Diario della domenica: 3 domande veloci sulla settimana. Se le penalità ti stressano puoi renderle più leggere (anche da Serie e pausa)\n- Nella Home il riquadro del gioco avvisa quando c'è una sfida gratis\n- Studio: la domenica le domande sbagliate nel gioco diventano un blocco di ripasso\n- Notifiche del compagno anche per le sfide del giorno e per il diario della domenica"
 }
