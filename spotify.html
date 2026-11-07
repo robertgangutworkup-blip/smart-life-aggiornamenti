@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Smart Life · Spotify</title>
+<style>
+  :root{color-scheme:light dark;--bg:#f4f6f2;--ink:#1d2421;--muted:#5b6660;--card:#fff;--line:#d8dfd9;--green:#1db954}
+  @media (prefers-color-scheme:dark){:root{--bg:#121614;--ink:#eef2ef;--muted:#a3ada7;--card:#1c211e;--line:#2c3430}}
+  body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;display:grid;place-items:center;min-height:100vh;padding:16px;box-sizing:border-box}
+  main{width:min(460px,100%);box-sizing:border-box;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px}
+  h1{font-size:22px;margin:0 0 8px}
+  p{margin:0 0 12px;color:var(--muted)}
+  a.btn,button{display:block;width:100%;box-sizing:border-box;text-align:center;border:0;border-radius:999px;padding:14px 18px;font:700 16px system-ui,sans-serif;background:var(--green);color:#fff;text-decoration:none;cursor:pointer;margin:6px 0}
+  button.ghost{background:none;color:var(--ink);border:1px solid var(--line)}
+  code{display:block;word-break:break-all;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:10px;font-size:13px;margin:6px 0 4px}
+  .small{font-size:13px}
+</style>
+</head>
+<body>
+<main id="m">
+  <h1>🎵 Smart Life · Spotify</h1>
+  <p>Un momento…</p>
+</main>
+<script>
+  // Pagina di ritorno dell'accesso a Spotify: riporta il codice a Smart Life (link smartlife://).
+  // Il codice da solo non basta per entrare: serve anche la chiave segreta rimasta nell'app.
+  const q = new URLSearchParams(location.search);
+  const m = document.getElementById("m");
+  const code = q.get("code"), state = q.get("state") || "", err = q.get("error");
+  if (err || !code) {
+    m.innerHTML = `<h1>🎵 Collegamento non riuscito</h1><p>${err === "access_denied" ? "Hai annullato l'accesso." : "Spotify non ha mandato il codice."} Torna in Smart Life e riprova da «Collega Spotify».</p>`;
+  } else {
+    const qs = `code=${encodeURIComponent(code)}&state=${encodeURIComponent(state)}`;
+    const android = /Android/i.test(navigator.userAgent);
+    const link = android ? `intent://spotify?${qs}#Intent;scheme=smartlife;package=it.robert.apporganizzativa;end` : `smartlife://spotify?${qs}`;
+    m.innerHTML = `<h1>🎵 Spotify ha detto sì</h1>
+      <p>Tocca il pulsante per tornare in Smart Life e finire il collegamento.</p>
+      <a class="btn" href="${link}">Torna a Smart Life</a>
+      <p class="small" style="margin-top:16px">Se l'app non si apre, copia questo codice e incollalo in Smart Life (🎵 → «Il ritorno nell'app non è partito?»):</p>
+      <code id="c">${code.replace(/[<>&"]/g, "")}</code>
+      <button class="ghost" id="cp">Copia il codice</button>`;
+    document.getElementById("cp").onclick = async () => {
+      try { await navigator.clipboard.writeText(code); document.getElementById("cp").textContent = "Copiato ✓"; }
+      catch { const r = document.createRange(); r.selectNodeContents(document.getElementById("c")); getSelection().removeAllRanges(); getSelection().addRange(r); }
+    };
+    setTimeout(() => { location.href = link; }, 400);
+  }
+</script>
+</body>
+</html>
