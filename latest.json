@@ -1,6 +1,6 @@
 {
-  "version": "0.16.0",
-  "build": 21,
-  "date": "2026-11-07T16:05:18.305Z",
-  "notes": "- Smart Quest: arriva il Rame 🟠, la moneta del gioco. Lo guadagni con battaglie, missioni, circuiti, cantieri e vendendo attrezzi veri (segna il prezzo nella pagina «I tuoi attrezzi»).\n- La bancarella del Ricciolo dei Cavi in Piazza è aperta: punte, inserti, frese, stagno, componenti, Fusibile salvavita, salvaserie e arredi. Ogni giorno c'è un'offerta al −40%, e il Ricciolo ti compra a metà prezzo quello che ti avanza.\n- Componenti: li trovi nelle battaglie, negli 8 mucchi di rottami del Villaggio (si riformano ogni 8 ore) e ogni giorno il compagno te ne porta qualcuno. Nel Villaggio ci sono anche 5 segreti: brillano solo quando ci passi vicino.\n- La base ora è un posto dove camminare: entra dalla collinetta e costruisci o migliora casa del compagno, accumulatore, magazzino, pannelli solari e difese. Si paga solo con energia e componenti; i lavori durano 1, 8 o 24 ore vere.\n- I pannelli solari danno energia per ogni giornata piena (almeno 6⚡), il 25% in più se c'era il sole: imposta la tua città per il meteo.\n- Nel cortile della base puoi mettere gli arredi; alla casa del compagno puoi cambiarlo una volta a settimana. Entrando nella base la vita torna piena.\n- In battaglia il Fusibile salvavita (tieni premuto il tuo pulsante) ti ridà il 40% di vita."
+  "version": "0.17.0",
+  "build": 23,
+  "date": "2026-11-07T16:24:02.900Z",
+  "notes": "- Nuovo tasto Spotify nella barra in alto, in ogni sezione di Smart Life: play e pausa, brano precedente e successivo, le tue playlist e su quale dispositivo suonare (telefono, PC, cassa).\n- Si collega una volta sola: tocca il tasto e segui i 6 passi per creare la tua piccola «app Spotify» e incollare il Client ID. Per comandare la musica Spotify chiede un account Premium.\n- Quando la musica suona, il tasto diventa verde con un puntino che pulsa."
 }
