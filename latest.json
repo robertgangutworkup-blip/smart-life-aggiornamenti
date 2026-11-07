@@ -1,6 +1,6 @@
 {
-  "version": "0.13.0",
-  "build": 18,
-  "date": "2026-11-07T12:09:50.337Z",
-  "notes": "- Nuova «Modalità lavoro» nei progetti: un passaggio alla volta a tutto schermo, con Avanti/Indietro (anche scorrendo col dito), «Fatto, avanti» e lo schermo che resta acceso.\n- Ogni passaggio può avere un avviso di sicurezza, i minuti per il timer, gli attrezzi da preparare e il materiale del progetto che serve.\n- Puoi aggiungere foto (fotocamera o galleria) o disegnare uno schema col dito su ogni passaggio; tocca la foto per ingrandirla.\n- Modifica dei passaggi più comoda: sposta su e giù, duplica, inserisci un passo sotto, e dalla modalità lavoro la matita apre subito quel passo."
+  "version": "0.14.0",
+  "build": 19,
+  "date": "2026-11-07T14:36:48.766Z",
+  "notes": "- Smart Quest: nel Villaggio ora ci sono i nemici del buio (ombre con gli occhi accesi). Avvicinati e tocca «Affronta»: una sfida costa 5⚡.\n- Battaglia a tocchi: tocca il tuo pulsante e quello del compagno per attaccare; toccandoli quasi insieme fai il colpo sincronizzato (×1,5). I nemici colpiti lasciano cristalli che caricano la barra e cuori che curano.\n- Con la barra piena trascina in su il tuo pulsante: parte la SCARICA, ma prima rispondi a una domanda sulle lezioni. Giusta = colpo pieno; sbagliata = colpo debole e l'argomento finisce in «Da ripassare» nello Studio.\n- I nemici a volte lanciano una domanda trappola (15 secondi): se rispondi giusto schivi il colpo.\n- Trascina in su il pulsante del compagno per la sua abilità; tieni premuto il tuo per mosse, fuga (2⚡) e, dal livello 3, Messa a terra. Ci sono anche ×2 e la battaglia automatica.\n- Quattro nemici, uno per quartiere (Segno Meno Fantasma, Frazione Spezzata, Parentesi Mangiatutto, Esponente Impazzito), con i loro capi; nell'erba alta lungo il fiume e sulla collina ci sono agguati.\n- Nel menu ☰ vedi Conduttanza, Corrente e Resistenza (base + forma delle ultime 4 settimane), la vita e i punti liberi da assegnare a ogni livello. Alla base la vita torna piena.\n- Studio: nuova lista «Da ripassare» con le domande sbagliate nel gioco e il collegamento alla lezione."
 }
