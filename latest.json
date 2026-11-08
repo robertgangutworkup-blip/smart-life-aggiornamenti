@@ -1,6 +1,6 @@
 {
-  "version": "0.20.0",
-  "build": 26,
-  "date": "2026-11-07T20:20:22.805Z",
-  "notes": "- Sfide del giorno: 3 nuove ogni mattina alle 5 (battaglia, quiz rapido, circuito o esplorazione). La prima è gratis, le altre 5⚡. Premi: esperienza, componenti e a volte un salvaserie. Le trovi col bersaglio 🎯 in alto\n- Quiz nuovi: oltre alle risposte da toccare ci sono risultati da scrivere e domande da abbinare\n- Palestra (menu ☰): quiz, battaglie contro i nemici già incontrati e circuiti già fatti, senza spendere energia e senza premi\n- Andamento della Prova (menu ☰): come vanno studio, abitudini, energia e penalità settimana per settimana\n- Diario della domenica: 3 domande veloci sulla settimana. Se le penalità ti stressano puoi renderle più leggere (anche da Serie e pausa)\n- Nella Home il riquadro del gioco avvisa quando c'è una sfida gratis\n- Studio: la domenica le domande sbagliate nel gioco diventano un blocco di ripasso\n- Notifiche del compagno anche per le sfide del giorno e per il diario della domenica"
+  "version": "0.20.1",
+  "build": 27,
+  "date": "2026-11-08T19:10:15.920Z",
+  "notes": "- S5 (7–13 dicembre): piano giorno per giorno collegato alle lezioni nuove\n- s5-verifica.md e s5-soluzioni.md (100 punti, soglia 60)\n- 477 domande nuove in src/game/questions.js per le lezioni S1–S5 senza domande\n- studio rev 4; nessun file nuovo nella cartella Scuola"
 }
