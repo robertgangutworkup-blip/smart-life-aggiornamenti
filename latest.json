@@ -1,6 +1,6 @@
 {
-  "version": "0.20.1",
-  "build": 27,
-  "date": "2026-11-08T19:10:15.920Z",
-  "notes": "- S5 (7–13 dicembre): piano giorno per giorno collegato alle lezioni nuove\n- s5-verifica.md e s5-soluzioni.md (100 punti, soglia 60)\n- 477 domande nuove in src/game/questions.js per le lezioni S1–S5 senza domande\n- studio rev 4; nessun file nuovo nella cartella Scuola"
+  "version": "0.21.0",
+  "build": 28,
+  "date": "2026-11-09T19:40:52.383Z",
+  "notes": "- Nel menu ☰ il tuo personaggio e il compagno sono disegnati in grande, in stile cartone animato\n- Nel bestiario tocca un nemico: si apre la sua scheda con il disegno grande, il tipo, il comportamento e il punto debole\n- Battaglie più impegnative: i nemici sono più forti, soprattutto alla Collina e alla Riva. Ora se ne vincono circa 8 su 10\n- Il Trasformatore Spento è un po' più duro: conviene affrontarlo verso il livello 5\n- Battere i nemici dà meno esperienza: conta di più quello che fai nella vita reale\n- Ringraziamenti nel menu ☰: chi ha reso possibile il gioco"
 }
