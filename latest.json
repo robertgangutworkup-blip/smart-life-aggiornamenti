@@ -1,6 +1,6 @@
 {
-  "version": "0.21.0",
-  "build": 28,
-  "date": "2026-11-09T19:40:52.383Z",
-  "notes": "- Nel menu ☰ il tuo personaggio e il compagno sono disegnati in grande, in stile cartone animato\n- Nel bestiario tocca un nemico: si apre la sua scheda con il disegno grande, il tipo, il comportamento e il punto debole\n- Battaglie più impegnative: i nemici sono più forti, soprattutto alla Collina e alla Riva. Ora se ne vincono circa 8 su 10\n- Il Trasformatore Spento è un po' più duro: conviene affrontarlo verso il livello 5\n- Battere i nemici dà meno esperienza: conta di più quello che fai nella vita reale\n- Ringraziamenti nel menu ☰: chi ha reso possibile il gioco"
+  "version": "0.22.0",
+  "build": 29,
+  "date": "2026-11-09T19:57:23.941Z",
+  "notes": "- Musica 8-bit: un brano per il Villaggio, uno per le battaglie, uno per i capi e il Trasformatore e uno per la base\n- Effetti sonori per colpi, scariche, nemici battuti, cristalli, risposte giuste e sbagliate, livelli nuovi, raccolta, cantieri e pulsanti\n- Nel menu ☰ puoi spegnere musica o effetti e scegliere il volume (piano, medio, forte)\n- L'audio parte al primo tocco e si ferma quando esci dall'app\n- Nei ringraziamenti ci sono gli autori: Juhani Junkala e Kenney (licenza libera CC0)"
 }
