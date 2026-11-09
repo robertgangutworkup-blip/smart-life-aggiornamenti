@@ -1,6 +1,6 @@
 {
-  "version": "0.22.0",
-  "build": 29,
-  "date": "2026-11-09T19:57:23.941Z",
-  "notes": "- Musica 8-bit: un brano per il Villaggio, uno per le battaglie, uno per i capi e il Trasformatore e uno per la base\n- Effetti sonori per colpi, scariche, nemici battuti, cristalli, risposte giuste e sbagliate, livelli nuovi, raccolta, cantieri e pulsanti\n- Nel menu ☰ puoi spegnere musica o effetti e scegliere il volume (piano, medio, forte)\n- L'audio parte al primo tocco e si ferma quando esci dall'app\n- Nei ringraziamenti ci sono gli autori: Juhani Junkala e Kenney (licenza libera CC0)"
+  "version": "0.23.0",
+  "build": 30,
+  "date": "2026-11-09T21:18:23.645Z",
+  "notes": "- Alla base si possono costruire il Laboratorio e la Sala trofei (fino al livello 3)\n- Laboratorio: con i componenti e i tuoi attrezzi veri (saldatore, colla a caldo, dremel) costruisci fusibili, kit di pronto soccorso, batterie di riserva, puntali dorati e salvaserie\n- Banco degli esperimenti: prova quantità e attrezzi diversi per scoprire 3 ricette rare. Se sbagli non perdi niente (5 prove al giorno)\n- Trofei: 22 traguardi del gioco e della vita reale, 5 sono segreti. Ogni trofeo dà Rame e la Sala li mette in bacheca\n- Con la Sala al livello 3 e almeno 10 trofei il compagno porta un componente in più ogni giorno"
 }
