@@ -1,6 +1,6 @@
 {
-  "version": "0.23.0",
-  "build": 30,
-  "date": "2026-11-09T21:18:23.645Z",
-  "notes": "- Alla base si possono costruire il Laboratorio e la Sala trofei (fino al livello 3)\n- Laboratorio: con i componenti e i tuoi attrezzi veri (saldatore, colla a caldo, dremel) costruisci fusibili, kit di pronto soccorso, batterie di riserva, puntali dorati e salvaserie\n- Banco degli esperimenti: prova quantità e attrezzi diversi per scoprire 3 ricette rare. Se sbagli non perdi niente (5 prove al giorno)\n- Trofei: 22 traguardi del gioco e della vita reale, 5 sono segreti. Ogni trofeo dà Rame e la Sala li mette in bacheca\n- Con la Sala al livello 3 e almeno 10 trofei il compagno porta un componente in più ogni giorno"
+  "version": "0.24.0",
+  "build": 31,
+  "date": "2026-11-10T17:19:06.961Z",
+  "notes": "- Nuovo in Studio: la scheda «🎲 Esercizi». Scegli Matematica, Elettronica, TPSEE o Logica, l'argomento e il livello, poi premi «Genera esercizio»: ogni volta i numeri sono diversi.\n- Scrivi il risultato (anche con la virgola, come frazione o tipo 4,7·10^-3) e premi «Controlla»: ti dico se è giusto e ti mostro la soluzione passo passo.\n- Ci sono tutte le lezioni con i calcoli: da numeri relativi e frazioni fino a sistemi e radicali, legge di Ohm, energia, vettori, Coulomb, atomi, isotopi, dimezzamento, tavola periodica e legami.\n- Nella Logica trovi successioni, porte logiche e interruttori, numeri binari, problemi di ragionamento e «Chi mente?».\n- Nelle lezioni e nel piano del giorno c'è il tasto «🎲 Esercizi nuovi» che apre subito l'argomento giusto."
 }
