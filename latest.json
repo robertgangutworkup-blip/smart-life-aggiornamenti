@@ -1,6 +1,6 @@
 {
-  "version": "0.24.0",
-  "build": 31,
-  "date": "2026-11-10T17:19:06.961Z",
-  "notes": "- Nuovo in Studio: la scheda «🎲 Esercizi». Scegli Matematica, Elettronica, TPSEE o Logica, l'argomento e il livello, poi premi «Genera esercizio»: ogni volta i numeri sono diversi.\n- Scrivi il risultato (anche con la virgola, come frazione o tipo 4,7·10^-3) e premi «Controlla»: ti dico se è giusto e ti mostro la soluzione passo passo.\n- Ci sono tutte le lezioni con i calcoli: da numeri relativi e frazioni fino a sistemi e radicali, legge di Ohm, energia, vettori, Coulomb, atomi, isotopi, dimezzamento, tavola periodica e legami.\n- Nella Logica trovi successioni, porte logiche e interruttori, numeri binari, problemi di ragionamento e «Chi mente?».\n- Nelle lezioni e nel piano del giorno c'è il tasto «🎲 Esercizi nuovi» che apre subito l'argomento giusto."
+  "version": "0.25.0",
+  "build": 32,
+  "date": "2026-11-12T21:46:01.565Z",
+  "notes": "- Nuovo in Studio: il sabato, sotto i punti della verifica, c'è «📷 Fotografa la verifica». Puoi scattare o scegliere dalla galleria anche più fogli insieme: le foto restano lì con i punti e il voto, e le vedi anche sugli altri dispositivi.\n- In Studio › Materiale trovi «📝 Le tue verifiche»: tutte le verifiche fatte, con voto e foto. Toccane una per aprire quel sabato.\n- Nuovo calendario delle prove: in Agenda e in Oggi compaiono le tappe con 🧪, con dentro cosa provare. Spunta ogni cosa quando l'hai provata. Le tappe si aggiornano da sole con le versioni nuove."
 }
