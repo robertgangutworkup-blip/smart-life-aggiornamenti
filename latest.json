@@ -1,6 +1,6 @@
 {
-  "version": "0.25.0",
-  "build": 32,
-  "date": "2026-11-12T21:46:01.565Z",
-  "notes": "- Nuovo in Studio: il sabato, sotto i punti della verifica, c'è «📷 Fotografa la verifica». Puoi scattare o scegliere dalla galleria anche più fogli insieme: le foto restano lì con i punti e il voto, e le vedi anche sugli altri dispositivi.\n- In Studio › Materiale trovi «📝 Le tue verifiche»: tutte le verifiche fatte, con voto e foto. Toccane una per aprire quel sabato.\n- Nuovo calendario delle prove: in Agenda e in Oggi compaiono le tappe con 🧪, con dentro cosa provare. Spunta ogni cosa quando l'hai provata. Le tappe si aggiornano da sole con le versioni nuove."
+  "version": "0.26.0",
+  "build": 33,
+  "date": "2026-11-13T06:28:37.932Z",
+  "notes": "- Nuova sezione 💡 Idee. Per segnarne una al volo tocca la lampadina in alto, da qualsiasi pagina: scrivi (o detta con il microfono della tastiera) e tocca «Salva». Se chiudi senza salvare, il testo resta lì come bozza.\n- A un'idea puoi aggiungere foto, schizzi fatti col dito e registrazioni vocali fino a 3 minuti. La prima volta il telefono chiede il permesso del microfono.\n- In basso c'è la voce «Idee»: le nuove arrivano in «Da smistare», poi decidi se portarle in «Da fare» o scartarle. Ci sono etichette, stella per le più importanti e ricerca.\n- Da «Da fare» un'idea può diventare un progetto, un impegno in Agenda o una cosa da fare: tocca «Trasforma…».\n- Sul telefono, tenendo premuta l'icona di Smart Life compare «Nuova idea», che apre subito la casella.\n- Ogni sera alle 21:15 arriva un avviso, solo se hai ancora idee da smistare. Ora e interruttore sono in Impostazioni › Notifiche."
 }
